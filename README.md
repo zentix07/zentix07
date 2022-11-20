@@ -3,8 +3,8 @@
 
 <a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝒁𝒐𝒅𝒊𝒂𝒄#0700" height="30" width="40" /></a> 𝒁𝒐𝒅𝒊𝒂𝒄#0700
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<br/>
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
 <b>Languages and Tools:</b><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
