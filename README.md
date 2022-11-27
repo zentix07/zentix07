@@ -13,9 +13,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zodiac0700&label=Profile%20views&color=0e75b6&style=flat" alt="zodiac0700" />
-<h1 align="center">Hi there 👋</h1>
-
 <a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝒁𝒐𝒅𝒊𝒂𝒄#0700" height="30" width="40" /></a> 𝒁𝒐𝒅𝒊𝒂𝒄#0700
 
 ![-----------------------------------------------------](
