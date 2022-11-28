@@ -11,8 +11,8 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Zodiac0700/Zodiac0700/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Zodiac0700/Zodiac0700/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 <a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝒁𝒐𝒅𝒊𝒂𝒄#0700" height="30" width="40" /></a> 𝒁𝒐𝒅𝒊𝒂𝒄#0700
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
