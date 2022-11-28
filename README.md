@@ -24,3 +24,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 <img src="https://github.com/Kek5chen/devicon/blob/jetbrains-icons/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Zodiac0700&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Zodiac0700?tab=repositories)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodiac0700&theme=tokyonight)](https://github.com/Zodiac0700?tab=repositories)
