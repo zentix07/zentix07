@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://github.com/Kek5chen/devicon/blob/jetbrains-icons/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
-[![Stats](https://github-readme-stats.vercel.app/api?username=Zodiac0700&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Zodiac0700?tab=repositories)
+[![Stats](https://github-readme-stats.vercel.app/api?username=zentix07&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Zodiac0700?tab=repositories)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodiac0700&theme=tokyonight)](https://github.com/Zodiac0700?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zentix07&theme=tokyonight)](https://github.com/Zodiac0700?tab=repositories)
