@@ -28,4 +28,4 @@ width="40" height="40"/>
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
 [![Stats](https://github-readme-stats.vercel.app/api?username=zentix07&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/zentix07?tab=repositories)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zentix07&theme=tokyonight)](https://github.com/Zodiac0700?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zentix07&theme=tokyonight)](https://github.com/zentix07?tab=repositories)
