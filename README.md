@@ -26,6 +26,6 @@ width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
-[![Stats](https://github-readme-stats.vercel.app/api?username=zentix07&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Zodiac0700?tab=repositories)
+[![Stats](https://github-readme-stats.vercel.app/api?username=zentix07&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/zentix07?tab=repositories)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zentix07&theme=tokyonight)](https://github.com/Zodiac0700?tab=repositories)
